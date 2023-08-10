@@ -28,7 +28,7 @@ asbEnumDefinition;
 Ts= 0.005;
 
 % Simulation time
-TFinal = 100;
+TFinal = 200;
 
 % Geometric properties
 thrustArm = 0.10795;
